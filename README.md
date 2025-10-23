@@ -26,6 +26,7 @@ Further, format standardization was performed to maintain uniformity across text
 Through this task, key skills such as data profiling, cleaning, and preprocessing using pandas and numpy were developed. It provided a clear understanding of how to prepare real-world data for analysis, emphasizing accuracy, consistency, and structure. The outcome of this task was a high-quality, analysis-ready dataset that could be confidently used for Exploratory Data Analysis (EDA) and predictive modeling in subsequent stages of the internship.
 
 Key Skills Demonstrated
+
 Data Cleaning and Preprocessing
 Libraries Used: pandas, numpy
 #Outcome
