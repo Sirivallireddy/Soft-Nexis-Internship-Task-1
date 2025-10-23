@@ -29,6 +29,8 @@ Key Skills Demonstrated
 
 Data Cleaning and Preprocessing
 Libraries Used: pandas, numpy
+
+
 #Outcome
 
 By completing these tasks, a complete end-to-end understanding of the data science process was gained — from raw data handling to statistical exploration and predictive modeling. This internship strengthened both technical and analytical skills essen
